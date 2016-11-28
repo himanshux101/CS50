@@ -1,0 +1,42 @@
+[33mcommit 52c743b964e52efdfaa15b8547a3402c70a1374b[m
+Merge: 76bb01c e8537f1
+Author: Himanshu Singh <himanshux101@gmail.com>
+Date:   Mon Nov 28 22:12:46 2016 +0530
+
+    merge testing 4
+
+[33mcommit 76bb01c6721fc701d0afb7dd05d1ebe95d9b2459[m
+Author: Himanshu Singh <himanshux101@gmail.com>
+Date:   Mon Nov 28 22:08:19 2016 +0530
+
+    merge testing 3
+
+[33mcommit e8537f13f70652fa10a2a5bf4b322e6490ad1ae3[m
+Author: Himanshu singh <himanshux101@gmail.com>
+Date:   Mon Nov 28 16:32:46 2016 +0000
+
+    merge testing 2
+
+[33mcommit 8158f429769b8f82d2728a26de4889162d09fc88[m
+Author: Himanshu singh <himanshux101@gmail.com>
+Date:   Mon Nov 28 16:25:29 2016 +0000
+
+    added sample file for merge testing
+
+[33mcommit 9d3861c5df6f934bdc2b3b1497615324e1fdffb7[m
+Author: Himanshu Singh <himanshux101@gmail.com>
+Date:   Mon Nov 28 20:22:09 2016 +0530
+
+    added frosims
+
+[33mcommit 556c578892d09fe74bb58fa8e890c98350d0745f[m
+Author: Himanshu singh <himanshux101@gmail.com>
+Date:   Mon Nov 28 14:39:37 2016 +0000
+
+    Except Pset4
+
+[33mcommit 8ed5d3c6e2cc39ab914a8b6e7ec4104fd5dc8530[m
+Author: himanshux101 <himanshux101@gmail.com>
+Date:   Wed Oct 21 15:44:14 2015 +0530
+
+    Initial commit
