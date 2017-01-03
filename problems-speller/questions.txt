@@ -1,0 +1,22 @@
+0.  an artificial long word said to mean a lung disease caused by inhaling very fine ash and sand dust
+1.  returns  resource usage measures 
+2.  16
+3.  We are determinig how much resources this program has used and those resources also includes time 
+    and if we pass time by value , its value will remain constant ,which is not possible . So in order
+    to resolve this conflict we pass the value by refernece.
+4.  So lets talk about the for loop that checks the spells of the words
+    first we open the file and we read it character by character and we read it till we have reached
+    the end of file
+    so in first if condition we only allow alphabets and apostrophes and update the number of letter on 
+    each itteration and then on the other nested else loop we ignore all the numbers by removing all the
+    numbers from the letter and then after removing all the letters we start a new word and then finally 
+    when all those above conditions are wrong ( nither a alpha or number ) we assume that we have hit the 
+    end of the word and then we pass that word to check() function, to check if its right or not and then 
+    we print number of misspelling in the word and prepare our program to another word to check if its right
+    or not
+5.  fscanf uses a format specifier to determine what its reading(like numbers ,char , etc) and if our word
+    contains numbers also it will just throw an error to us and our program will crash. So to make sure that 
+    even our word contains letters or other symbols ,our program will just skip them all just like MSword do. 
+6.  We declared the parameters for check and load as constants beacuse we don't need to change the data that's
+    stored in the strings/files to execute the function , so we are just making sure that even if the program 
+    tries to change the orignal data it will remain same.
